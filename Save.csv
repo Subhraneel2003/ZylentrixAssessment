@@ -1,0 +1,123 @@
+Student_ID,Course_ID,Date,Time_Spent_Minutes,Completion_Percentage,Rating,Feedback_Text,Engagement_Score,Combined_Score,Gender,Location,Age
+S002,PY202,,45,32.2,3,Well structured,14.49,43.47,Other,Chennai,32
+S002,PY202,,136,18.18,3,Well structured,24.7248,74.1744,Other,Chennai,32
+S005,DM101,,27,91.49,4,Loved the examples,24.7023,98.8092,Other,Delhi,24
+S006,DM101,,177,98.57,1,Loved the examples,174.4689,174.4689,Other,Delhi,28
+S006,DM101,,113,75.54,1,Loved the examples,85.3602,85.3602,Other,Delhi,28
+S006,DM101,,59,27.12,1,Loved the examples,16.0008,16.0008,Other,Delhi,28
+S006,DM101,,176,99.94,1,Loved the examples,175.8944,175.8944,Other,Delhi,28
+S006,DM101,,70,24.97,1,Loved the examples,17.479,17.479,Other,Delhi,28
+S009,UX303,,99,89.28,4,Well structured,88.3872,353.5488,Other,Kolkata,25
+S011,PY202,,19,85.11,5,Needs improvement,16.1709,80.8545,Female,Chennai,19
+S011,PY202,,42,13.76,5,Needs improvement,5.7792,28.896,Female,Chennai,19
+S014,UX303,,165,98.58,2,Excellent instructor,162.657,325.314,Other,Chennai,19
+S014,UX303,,90,69.7,2,Excellent instructor,62.73,125.46,Other,Chennai,19
+S015,DM101,,83,28.92,3,Needs improvement,24.0036,72.0108,Other,Bangalore,18
+S016,DM101,,66,25.83,3,Loved the examples,17.0478,51.1434,Male,Mumbai,29
+S016,DM101,,44,82.13,3,Loved the examples,36.1372,108.4116,Male,Mumbai,29
+S017,PY202,,80,78.92,5,Great course!,63.136,315.68,Male,Bangalore,29
+S017,PY202,,49,73.58,5,Great course!,36.0542,180.271,Male,Bangalore,29
+S018,PY202,,66,34.56,3,Too fast-paced,22.8096,68.4288,Female,Bangalore,34
+S021,UX303,,139,68.28,4,Needs improvement,94.9092,379.6368,Other,Delhi,32
+S021,UX303,,127,73.66,4,Needs improvement,93.5482,374.1928,Other,Delhi,32
+S021,UX303,,147,79.72,4,Needs improvement,117.1884,468.7536,Other,Delhi,32
+S022,PY202,,64,41.93,4,Could be better,26.8352,107.3408,Male,Delhi,32
+S022,PY202,,71,74.81,4,Could be better,53.1151,212.4604,Male,Delhi,32
+S022,PY202,,72,37.56,4,Could be better,27.0432,108.1728,Male,Delhi,32
+S023,PY202,,65,76.47,1,Excellent instructor,49.7055,49.7055,Other,Mumbai,29
+S023,PY202,,13,73.72,1,Excellent instructor,9.5836,9.5836,Other,Mumbai,29
+S023,PY202,,21,97.69,1,Excellent instructor,20.5149,20.5149,Other,Mumbai,29
+S028,WD404,,10,69.19,1,Very helpful,6.919,6.919,Other,Delhi,24
+S028,WD404,,23,26.88,1,Very helpful,6.1824,6.1824,Other,Delhi,24
+S030,DM101,,116,40.59,4,Too fast-paced,47.0844,188.3376,Female,Mumbai,31
+S034,PY202,,159,22.88,1,Very helpful,36.3792,36.3792,Female,Delhi,24
+S034,PY202,,123,95.07,1,Very helpful,116.9361,116.9361,Female,Delhi,24
+S035,PY202,,58,65.88,4,Very helpful,38.2104,152.8416,Male,Chennai,29
+S036,DM101,,175,13.55,5,Excellent instructor,23.7125,118.5625,Male,Chennai,25
+S037,UX303,,85,77.19,3,Too fast-paced,65.6115,196.8345,Female,Delhi,32
+S037,UX303,,129,96.66,3,Too fast-paced,124.6914,374.0742,Female,Delhi,32
+S037,UX303,,111,11.25,3,Too fast-paced,12.4875,37.4625,Female,Delhi,32
+S038,WD404,,105,19.75,3,Great course!,20.7375,62.2125,Female,Mumbai,20
+S038,WD404,,87,68.43,3,Great course!,59.5341,178.6023,Female,Mumbai,20
+S039,DM101,,95,31.92,5,Too fast-paced,30.324,151.62,Female,Delhi,31
+S040,DM101,,47,98.88,5,Too fast-paced,46.4736,232.368,Other,Chennai,34
+S040,DM101,,13,42.24,5,Too fast-paced,5.4912,27.456,Other,Chennai,34
+S042,WD404,,164,48.72,1,Could be better,79.9008,79.9008,Other,Kolkata,25
+S042,WD404,,126,45.89,1,Could be better,57.8214,57.8214,Other,Kolkata,25
+S043,UX303,,131,16.04,1,Great course!,21.0124,21.0124,Male,Bangalore,21
+S043,UX303,,152,15.4,1,Great course!,23.408,23.408,Male,Bangalore,21
+S043,UX303,,41,46.97,1,Great course!,19.2577,19.2577,Male,Bangalore,21
+S043,UX303,,157,55.67,1,Great course!,87.4019,87.4019,Male,Bangalore,21
+S045,PY202,,178,46.07,1,Great course!,82.0046,82.0046,Female,Delhi,23
+S045,PY202,,17,18.26,1,Great course!,3.1042,3.1042,Female,Delhi,23
+S045,PY202,,117,50.83,1,Great course!,59.4711,59.4711,Female,Delhi,23
+S045,PY202,,89,74.94,1,Great course!,66.6966,66.6966,Female,Delhi,23
+S046,WD404,,123,47.28,4,Excellent instructor,58.1544,232.6176,Male,Bangalore,27
+S047,WD404,,90,61.82,1,Too fast-paced,55.638,55.638,Male,Bangalore,21
+S047,WD404,,173,47.59,1,Too fast-paced,82.3307,82.3307,Male,Bangalore,21
+S049,DM101,,123,66.82,5,Very helpful,82.1886,410.943,Other,Chennai,19
+S049,DM101,,128,50.67,5,Very helpful,64.8576,324.288,Other,Chennai,19
+S049,DM101,,83,16.91,5,Very helpful,14.0353,70.1765,Other,Chennai,19
+S049,DM101,,162,55.64,5,Very helpful,90.1368,450.684,Other,Chennai,19
+S049,DM101,,156,68.67,5,Very helpful,107.1252,535.626,Other,Chennai,19
+S049,DM101,,36,82.99,5,Very helpful,29.8764,149.382,Other,Chennai,19
+S050,WD404,,96,71.1,1,Well structured,68.256,68.256,Female,Delhi,27
+S051,DM101,,153,43.9,2,Could be better,67.167,134.334,Male,Chennai,21
+S052,WD404,,67,100,5,Very helpful,67,335,Male,Bangalore,31
+S053,PY202,,166,35.64,2,Needs improvement,59.1624,118.3248,Male,Delhi,33
+S055,DM101,,75,29.41,3,Loved the examples,22.0575,66.1725,Other,Chennai,25
+S057,UX303,,98,31.7,2,Too fast-paced,31.066,62.132,Other,Delhi,25
+S057,UX303,,96,83.22,2,Too fast-paced,79.8912,159.7824,Other,Delhi,25
+S058,PY202,,26,74.44,4,Could be better,19.3544,77.4176,Male,Bangalore,33
+S058,PY202,,90,94,4,Could be better,84.6,338.4,Male,Bangalore,33
+S058,PY202,,101,87.59,4,Could be better,88.4659,353.8636,Male,Bangalore,33
+S059,DM101,,167,99.83,1,Could be better,166.7161,166.7161,Female,Delhi,30
+S061,DM101,,54,90.88,2,Very helpful,49.0752,98.1504,Male,Mumbai,30
+S061,DM101,,148,36.13,2,Very helpful,53.4724,106.9448,Male,Mumbai,30
+S062,PY202,,136,12.37,4,Needs improvement,16.8232,67.2928,Other,Mumbai,26
+S063,PY202,,138,91.96,2,Loved the examples,126.9048,253.8096,Female,Mumbai,32
+S063,PY202,,92,94.13,2,Loved the examples,86.5996,173.1992,Female,Mumbai,32
+S063,PY202,,142,90.54,2,Loved the examples,128.5668,257.1336,Female,Mumbai,32
+S064,WD404,,173,12.73,4,Great course!,22.0229,88.0916,Other,Bangalore,30
+S065,DM101,,122,47.41,4,Loved the examples,57.8402,231.3608,Other,Kolkata,18
+S067,DM101,,105,81.54,5,Excellent instructor,85.617,428.085,Male,Chennai,26
+S067,DM101,,19,22.33,5,Excellent instructor,4.2427,21.2135,Male,Chennai,26
+S069,WD404,,115,72.15,3,Loved the examples,82.9725,248.9175,Female,Chennai,29
+S069,WD404,,166,92.85,3,Loved the examples,154.131,462.393,Female,Chennai,29
+S071,WD404,,61,84.52,2,Too fast-paced,51.5572,103.1144,Female,Kolkata,28
+S072,UX303,,83,68.13,5,Too fast-paced,56.5479,282.7395,Female,Chennai,34
+S075,WD404,,141,39.51,1,Well structured,55.7091,55.7091,Other,Delhi,20
+S076,WD404,,94,37.18,5,Very helpful,34.9492,174.746,Male,Chennai,18
+S077,PY202,,162,88.58,5,Could be better,143.4996,717.498,Male,Bangalore,22
+S077,PY202,,147,23.49,5,Could be better,34.5303,172.6515,Male,Bangalore,22
+S077,PY202,,135,18.18,5,Could be better,24.543,122.715,Male,Bangalore,22
+S078,UX303,,111,32.9,5,Needs improvement,36.519,182.595,Male,Bangalore,27
+S081,DM101,,174,70.42,4,Needs improvement,122.5308,490.1232,Male,Bangalore,24
+S082,WD404,,153,47.14,2,Too fast-paced,72.1242,144.2484,Female,Bangalore,26
+S082,WD404,,145,22.07,2,Too fast-paced,32.0015,64.003,Female,Bangalore,26
+S083,DM101,,160,75.19,5,Well structured,120.304,601.52,Female,Mumbai,25
+S087,DM101,,173,70.01,1,Well structured,121.1173,121.1173,Male,Delhi,33
+S087,DM101,,113,51.31,1,Well structured,57.9803,57.9803,Male,Delhi,33
+S088,DM101,,113,44.13,1,Too fast-paced,49.8669,49.8669,Male,Kolkata,22
+S088,DM101,,64,91.11,1,Too fast-paced,58.3104,58.3104,Male,Kolkata,22
+S089,PY202,,14,96.53,4,Excellent instructor,13.5142,54.0568,Other,Chennai,20
+S089,PY202,,29,36.93,4,Excellent instructor,10.7097,42.8388,Other,Chennai,20
+S089,PY202,,109,70.93,4,Excellent instructor,77.3137,309.2548,Other,Chennai,20
+S090,DM101,,85,81.82,3,Well structured,69.547,208.641,Female,Kolkata,29
+S090,DM101,,78,23.88,3,Well structured,18.6264,55.8792,Female,Kolkata,29
+S090,DM101,,88,50.03,3,Well structured,44.0264,132.0792,Female,Kolkata,29
+S090,DM101,,163,80.6,3,Well structured,131.378,394.134,Female,Kolkata,29
+S091,DM101,,115,44.9,3,Very helpful,51.635,154.905,Female,Bangalore,25
+S091,DM101,,72,61.48,3,Very helpful,44.2656,132.7968,Female,Bangalore,25
+S091,DM101,,121,34.84,3,Very helpful,42.1564,126.4692,Female,Bangalore,25
+S091,DM101,,95,85.75,3,Very helpful,81.4625,244.3875,Female,Bangalore,25
+S092,WD404,,84,76.14,3,Well structured,63.9576,191.8728,Male,Chennai,20
+S092,WD404,,72,39.33,3,Well structured,28.3176,84.9528,Male,Chennai,20
+S093,DM101,,73,69.18,1,Needs improvement,50.5014,50.5014,Female,Bangalore,18
+S094,PY202,,105,45.2,4,Well structured,47.46,189.84,Female,Delhi,20
+S094,PY202,,16,53.45,4,Well structured,8.552,34.208,Female,Delhi,20
+S095,DM101,,125,38.7,3,Too fast-paced,48.375,145.125,Other,Delhi,22
+S097,PY202,,81,77.71,5,Loved the examples,62.9451,314.7255,Other,Chennai,31
+S097,PY202,,93,27.74,5,Loved the examples,25.7982,128.991,Other,Chennai,31
+S099,WD404,,162,22.41,5,Needs improvement,36.3042,181.521,Male,Kolkata,18
+S099,WD404,,57,53.8,5,Needs improvement,30.666,153.33,Male,Kolkata,18
